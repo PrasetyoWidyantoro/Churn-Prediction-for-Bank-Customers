@@ -1,6 +1,6 @@
 # Churn Prediction for Bank Customers Using Machine Learning 
 
-- `Link Dokumentasi` : https://prasetyowidyantoro12.github.io/Assignment_Churn_Prediction/
+- `Link Dokumentasi` : https://prasetyowidyantoro.github.io/Churn-Prediction-for-Bank-Customers/
 - `Link Medium` : https://medium.com/@prasetyow938/churn-prediction-for-bank-customers-using-machine-learning-45f604e86dc0
 - `Link Youtube` : -
 
