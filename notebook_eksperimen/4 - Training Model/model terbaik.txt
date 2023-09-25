@@ -1,0 +1,6 @@
+SVC Random Over Sampling recall 0 = 078 dan recall 1 = 080 
+gradboost Random Over Sampling recall 0 = 078 dan recall 1 = 081
+adaboost Random Over Sampling recall 0 = 076 dan recall 1 = 082
+xgb_pred Random Over Sampling recall 0 = 087 dan recall 1 = 072
+LightGBM Random Over Sampling recall 0 = 082 dan recall 1 = 077
+LightGBM CV Random Over Sampling recall 0 = 080 dan recall 1 = 078
